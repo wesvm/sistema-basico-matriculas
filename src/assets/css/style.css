@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.font-semibold {
+    font-weight: 600;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.card-student {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-data {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1280px;
+}
+
+.card-login {
+    border-radius: 25px;
+    border: 1px solid #ccc;
+    box-shadow: 20px 30px 80px -38px #000
+}
+
+.c-table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+
+}
+
+.table-header {
+    background-color: #2b45b6;
+    font-weight: bold;
+    color: white;
+}
+
+.c-table td,
+.c-table th {
+    border: 1px solid black;
+    padding: 5px 8px;
+}
+
+.btn-c {
+    margin: 10px auto;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.data-items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
