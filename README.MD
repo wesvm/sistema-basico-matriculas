@@ -1,4 +1,4 @@
-# Sistema de Matrícula Basico para Estudiantes
+# Sistema de Matrícula Basico
 
 ## Descripción
 
