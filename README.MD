@@ -16,3 +16,10 @@ Este es un sistema web para gestionar el proceso de matrícula para estudiantes.
 - JavaScript
 - PHP
 - MySQL
+
+## Demo
+
+<div style="text-align:center;">
+<video controls src="https://user-images.githubusercontent.com/76707027/228113120-2931aa1d-ea1e-4aaf-a90e-121240073693.mp4">
+</video>
+</div>
